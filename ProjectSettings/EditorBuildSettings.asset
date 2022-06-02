@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 344ba980c438bdc4983caff73dc797c0
+  - enabled: 1
+    path: Assets/Scenes/Playground.unity
+    guid: 68f6195ccab854947bbd4b0ea5a500b1
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: cb0156a2823bb7d4fae6145909d8e568
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 279a816dfc8c47d40bf50fb63e79a0da
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 1841b376023b0e140a4ccd0a80bf7811
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 97163059b6f029b42b552b51136a197c
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: ac4d17e3096101949a534f67a5c9b009
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 4ae9896accd019d4981a769c8acbecdf
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 5a2297ea9b0980246bc3bcf2fb46402f
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: 33615508c66b4d3429be9414fa24e9fe
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: b1fd023d4fdda3441960c404c29a8feb
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: 227ed823ec97fa94cb30f94c6cfaf217
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: 287e37455a061fb4f91b114e4cb1edd3
+  - enabled: 1
+    path: Assets/Scenes/Level11.unity
+    guid: cc44321bac2f51e48bc1f88a301554fd
+  - enabled: 1
+    path: Assets/Scenes/Level12.unity
+    guid: c680d47ee2b6054428d47df19fb024ac
+  - enabled: 1
+    path: Assets/Scenes/Level13.unity
+    guid: 12e9c339069c51544b0ef74091fb7587
+  - enabled: 1
+    path: Assets/Scenes/Level14.unity
+    guid: ab6ac022b8fe1f8498568fea51e11fa1
+  - enabled: 1
+    path: Assets/Scenes/Win1.unity
+    guid: f002e3c8ea7abe944b1cc700d9c1ca24
+  - enabled: 1
+    path: Assets/Scenes/Win2.unity
+    guid: 649b9c765222667498d3626b760c3430
+  - enabled: 1
+    path: Assets/Scenes/Win3.unity
+    guid: a31e593593fb1de42ad36ebf713edc6a
+  - enabled: 1
+    path: Assets/Scenes/Win4.unity
+    guid: 825555ff3ed57684ca5d1cc7e3c474e0
+  - enabled: 1
+    path: Assets/Scenes/Win5.unity
+    guid: 6bc02f31e6058a54ea5b0675a6778e5c
+  - enabled: 1
+    path: Assets/Scenes/Win6.unity
+    guid: 4ea492a59b852a149a567e0147556a41
+  - enabled: 1
+    path: Assets/Scenes/Win7.unity
+    guid: eab2c20a2728dcf4087fb5c5aee29450
+  - enabled: 1
+    path: Assets/Scenes/Win8.unity
+    guid: 28b8deeebc98f424f85c482bf4381802
+  - enabled: 1
+    path: Assets/Scenes/Win9.unity
+    guid: 280fd816f47359e41b6b69bbc36d62c3
+  - enabled: 1
+    path: Assets/Scenes/Win10.unity
+    guid: 0b6881309c0261145903c97526dd0e96
+  - enabled: 1
+    path: Assets/Scenes/Win11.unity
+    guid: 293959f4789b8dc449ff927d3001d547
+  - enabled: 1
+    path: Assets/Scenes/Win12.unity
+    guid: 7b78ecb5b6635734db3bec37c78b5a6e
+  - enabled: 1
+    path: Assets/Scenes/Win13.unity
+    guid: 66ff732a4c3dba54ebd3a31872a2a930
+  - enabled: 1
+    path: Assets/Scenes/Win14.unity
+    guid: d93deca7fdaf51e4283397ab99170b53
+  - enabled: 1
+    path: Assets/Scenes/Defeat1.unity
+    guid: 9b665e20dec921347b308976a7ad0871
+  - enabled: 1
+    path: Assets/Scenes/Defeat2.unity
+    guid: 44777e79652c6eb429fe66c8f5a50ef0
+  - enabled: 1
+    path: Assets/Scenes/Defeat3.unity
+    guid: a489c6bcb33ae264e88f9666e517ab79
+  - enabled: 1
+    path: Assets/Scenes/Defeat4.unity
+    guid: 4417eb2804e30114fb62b9e5191000f3
+  - enabled: 1
+    path: Assets/Scenes/Defeat5.unity
+    guid: c1880b9a2d5093645885b617017beafd
+  - enabled: 1
+    path: Assets/Scenes/Defeat6.unity
+    guid: 6c718ffaa130ba34d998de5a40230531
+  - enabled: 1
+    path: Assets/Scenes/Defeat7.unity
+    guid: a7de9c2071f808342ab495bfdc7d5e42
+  - enabled: 1
+    path: Assets/Scenes/Defeat8.unity
+    guid: 4bf652d9bfe3f7e42a6d2f150219dabe
+  - enabled: 1
+    path: Assets/Scenes/Defeat9.unity
+    guid: 967b15f20bc950740af3cd81f766a8ed
+  - enabled: 1
+    path: Assets/Scenes/Defeat10.unity
+    guid: a5abecd64fbb7b84f877294d2e5958f1
+  - enabled: 1
+    path: Assets/Scenes/Defeat11.unity
+    guid: 783cf1236b7fd2e4bbb366035034064d
+  - enabled: 1
+    path: Assets/Scenes/Defeat12.unity
+    guid: 1dd8cbc83c4146d4f921b018de37c70c
+  - enabled: 1
+    path: Assets/Scenes/Defeat13.unity
+    guid: 9cb7a7320fd15c14186eb47b0a0ca6d3
+  - enabled: 1
+    path: Assets/Scenes/Defeat14.unity
+    guid: 5a58b827a5245784cb6a2d16427172ea
+  m_configObjects: {}
